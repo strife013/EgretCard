@@ -10,3 +10,6 @@ demo：http://game.linyueshan.com/egret/cards/index.html
 
 ![](https://github.com/strife013/EgretCard/blob/master/CardEUI3/resource/assets/s3.png)
 ![](https://github.com/strife013/EgretCard/blob/master/CardEUI3/egretmain.png)
+
+有帮助?
+![](https://github.com/strife013/EgretCard/blob/master/CardEUI3/dibs.jpg)
