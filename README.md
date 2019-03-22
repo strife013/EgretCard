@@ -1,15 +1,19 @@
 # EgretCard
 
-用EgretWing开发的塔罗游戏，纯TS开发，直接生成js代码文件，采用了puremvc框架，完全可用，适合新手作为练习项目
+Tarot game developed with Egret Wing, pure TS development, direct generation of JS code files, using PureMVC framework, fully available, suitable for novice as an exercise project
 
-首次加载有点慢,选牌时拖动卡牌到下方阴影地区。
 
-开发工具http://developer.egret.com/cn/github/egret-docs/Wing/update/update416/index.html
+
+The first load is a little slow. Drag the card to the lower shadow area when selecting.
+
+
+
+development tool： http://developer.egret.com/cn/github/egret-docs/Wing/update/update416/index.html
 
 demo：http://game.linyueshan.com/egret/cards/index.html
 
 ![](https://github.com/strife013/EgretCard/blob/master/CardEUI3/resource/assets/s3.png)
 ![](https://github.com/strife013/EgretCard/blob/master/CardEUI3/egretmain.png)
 
-有帮助?
+any help?
 ![](https://github.com/strife013/EgretCard/blob/master/CardEUI3/dibs.png)
