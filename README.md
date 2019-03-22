@@ -1,4 +1,5 @@
 # EgretCard
+卡牌游戏 塔罗牌 typescript
 
 Tarot game developed with Egret Wing, pure TS development, direct generation of JS code files, using PureMVC framework, fully available, suitable for novice as an exercise project
 
