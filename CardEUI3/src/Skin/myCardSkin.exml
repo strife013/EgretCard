@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="myCardSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="base_png" width="640" y="0" height="960" x="0"/>
+	<e:Label background="true" y="379" size="40" fontFamily="华文行楷" width="616" height="553" alpha="0.2" x="15"/>
+	<e:Label alpha="0.2" y="53" size="40" fontFamily="华文行楷" width="372" height="311" background="true" x="249"/>
+	<e:Label id="lblCardDesc" width="602" y="443" height="485" text="牌面描述" x="22" size="35"/>
+		
+	<e:Label y="60" height="41" text="牌名" width="95" size="30" textColor="0xF6052D" x="260"/>
+	<e:Label id="lblCardName" y="58" size="30" text="dddd" height="41" x="382" textColor="0xF2F7EE"/>
+	<e:Label y="97" textColor="0xF6052D" size="30" text="关键字" width="95" height="41" x="256"/>
+	<e:Label id="lblCardKey" y="99" textColor="0xF2F7EE" height="41" text="dddd关键字" x="383" size="30" width="220"/>
+	<e:Label y="403" textColor="0xF6052D" size="30" text="牌面描述" height="41" x="258"/>
+	<e:Image id="cardimg" source="backpic_png" x="41" y="69" width="169" height="280"/>
+	<e:Button id="btnClose" label="按钮" x="588" y="6" skinName="closeSkin"/>
+	<e:Label id="lblCardMain" y="135" textColor="0xF2F7EE" text="d要素" x="268" size="15" width="346"/>
+</e:Skin>

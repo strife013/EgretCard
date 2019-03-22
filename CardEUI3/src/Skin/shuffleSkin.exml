@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="shuffleSkin" currentState="Normal" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="640" height="960" states="Roll,Normal" >
+	<e:Image source="base_png" x="0" y="0" width="640" height="960"/>
+	<e:Label id="lblShadowCardLayer" y="313" height="196" fontFamily="华文行楷" x="10" width="628" size="40" background="true" alpha="0.2"/>
+	<e:Label id="lblDescLayer" y="639" height="196" fontFamily="华文行楷" x="72" width="519" size="40" alpha="0.2" background="true"/>
+	<e:Label id="lblDesc" width="475" y="658" height="147" text="旋转说明" x="95"/>
+	<e:Button id="btnShuffle" label="自动洗牌" x="194" y="867" width="248" height="57" skinName="main.InfoBtnSkin"/>
+	<e:Button id="btnBack" label="按钮" x="8" y="4" skinName="toLeftbtnSkin"/>
+</e:Skin>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="typeSelectSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="base_png" x="0" y="0" width="640" height="960"/>
+	<e:Button label="按钮" x="235" y="142" width="173" height="50"/>
+	<e:Image source="zs_png" x="216" y="103"/>
+	<e:Image source="zs_png" y="536" x="225"/>
+	<e:Button id="btnaq" label="按钮" x="197" y="163" skinName="aiqinSkin"/>
+	<e:Button id="btnsy" y="291" label="按钮" skinName="sySkin" x="191"/>
+	<e:Button id="btnqt" y="421" label="按钮" skinName="qtSkin" x="196"/>
+</e:Skin>

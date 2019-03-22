@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="PickCardSkin" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="base_png" width="640" y="0" height="960" x="0"/>
+	<e:Label y="303" height="196" fontFamily="华文行楷" x="4" width="631" size="40" alpha="0.2" background="true"/>
+	<e:Label background="true" y="662" size="40" fontFamily="华文行楷" width="633" height="196" alpha="0.2" x="3"/>
+	<e:Label width="587" y="683" height="147" text="请抽出牌放在相应的位置" x="28" size="47"/>
+</e:Skin>

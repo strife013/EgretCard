@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="selectScreenTypeSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="640" height="960">
+	<e:Image source="base_png" x="0" y="0" width="640" height="960"/>
+	<e:Button y="879" id="btnStart" width="133" label="开始" skinName="startbtnSkin" height="49" x="272"/>
+	<e:Label text="圣三角占卜" x="188" y="77" size="57"/>
+	<e:Label y="572" height="196" width="519" size="40" x="62" fontFamily="华文行楷" background="true" alpha="0.2"/>
+	<e:Image id="btnright" source="arrowright_png" x="700" y="648" width="34" height="74"/>
+	<e:Image source="backpic_png" y="201" width="86" height="128" alpha="0.5" x="284"/>
+	<e:Image source="backpic_png" y="370" width="86" height="128" alpha="0.5" x="407"/>
+	<e:Image source="backpic_png" y="362" width="86" height="128" alpha="0.5" x="138"/>
+	<e:Label text="圣三角占卜法：用于对过去、现在、未来的需求与指引。适用于一般类型的问题占卜，如运势、爱情、友谊、工作、学业等问题。" x="85" y="591" width="475" height="147"/>
+	<e:Button id="btnLeft" label="按钮" x="12" y="408" width="52" height="68" skinName="toLeftbtnSkin"/>
+	<e:Button id="btnRight" y="407" width="52" label="按钮" height="68" x="588" skinName="toRightbtnSkin"/>
+</e:Skin>

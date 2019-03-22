@@ -1,0 +1,45 @@
+{
+	"native": {
+		"path_ignore": []
+	},
+	"publish": {
+		"web": 0,
+		"native": 1,
+		"path": "bin-release"
+	},
+	"egret_version": "4.1.0",
+	"modules": [
+		{
+			"name": "egret"
+		},
+		{
+			"name": "game"
+		},
+		{
+			"name": "res"
+		},
+		{
+			"name": "eui"
+		},
+		{
+			"name": "tween"
+		},
+		{
+			"name": "socket"
+		},
+		{
+			"name": "socket"
+		},	{
+	 "name": "particle",
+	 "path":"D:/013/wanguo/game/CardEUI1/三方/egret-game-library-4.1.0/particle/libsrc"
+	},
+		{
+			"name": "puremvc",
+			"path": "D:/013/wanguo/game/CardEUI1/三方/modules/puremvc"
+		},
+		{
+			"name": "protobuf",
+			"path": "D:/013/wanguo/game/CardEUI1/三方/modules/protobuf"
+		}
+	]
+}

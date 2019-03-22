@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="startbtnSkin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui" width="134" height="50">
+	<e:Image source="00yr_png" y="0" width="82" height="50" fillMode="scale" x="27" includeIn="down"/>
+	<e:Image source="00yr_png" y="0" fillMode="scale" x="1" width="133" height="49" includeIn="up"/>
+	<e:Label text="开始" x="38" y="9" textColor="0xE00505" width.down="64" size.down="25" x.down="42" y.down="12"/>
+</e:Skin>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="toRightbtnSkin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="arrowright_png" x="7" y="2" width.down="27" height.down="44"/>
+</e:Skin>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="ShowCardsSkin" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="base_png" width="640" y="0" height="960" x="0"/>
+</e:Skin>

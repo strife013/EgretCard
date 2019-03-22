@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="selectScreenTypeSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="640" height="960">
+	<e:Image source="base_png" x="0" y="0" fillMode="scale" width="640" height="960"/>
+	<e:Label text="小十字占卜" x="208" y="53" size="57"/>
+	<e:Label y="676" height="192" width="603" size="40" x="22" fontFamily="华文行楷" background="true" alpha="0.2"/>
+	<e:Image source="backpic_png" x="291" y="159" width="86" height="128" alpha="0.5"/>
+	<e:Image source="backpic_png" y="311" width="86" height="128" alpha="0.5" x="108"/>
+	<e:Image source="backpic_png" y="330" width="86" height="128" alpha="0.5" x="471"/>
+	<e:Image source="backpic_png" y="507" width="86" height="128" alpha="0.5" x="293"/>
+	<e:Label text="小十字占卜法：能帮助你了解整个事情，例如事件发生原因和当时情况，事情目前情况，事情能否解决，事情以后的发展等等。常用于情感问题。" x="69" y="695" width="531" height="151"/>
+	<e:Button id="btnStart" label="开始" x="272" y="895" width="133" height="49" skinName="startbtnSkin"/>
+	<e:Button id="btnRight" label="按钮" x="584" y="428" skinName="toRightbtnSkin"/>
+</e:Skin>

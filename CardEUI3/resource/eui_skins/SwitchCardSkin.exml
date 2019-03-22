@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="SwitchCardSkin" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="backpic_png" y="349" x="610" rotation="90"/>
+	<e:Image source="backpic_png" x="614" y="360" rotation="90"/>
+	<e:Image source="backpic_png" fillMode="scale" x="611" y="339" rotation="90"/>
+	<e:Image source="base_png" left="0" right="0" top="0" bottom="0"/>
+	<e:Image source="egretIcon" x="267" y="694"/>
+	<e:Button label="按钮" x="276" y="1042" width="218" height="76" skinName="skins.PanelSkin" minHeight="60" touchEnabled="true"/>
+</e:Skin>

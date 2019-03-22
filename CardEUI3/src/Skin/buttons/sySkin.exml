@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="sySkin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="shiye_png" x="8" y="0" x.down="0" width.down="220" height.down="51" y.down="0"/>
+</e:Skin>

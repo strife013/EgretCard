@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="qtSkin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="other_png" x="8" y="-3" x.down="0" width.down="231" height.down="60" y.down="0"/>
+</e:Skin>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="aiqinSkin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="aq_png" x="3" y="-2" width.down="198" height.down="64" x.up="0" y.up="0"/>
+</e:Skin>
