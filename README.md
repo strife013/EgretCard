@@ -5,3 +5,5 @@
 开发工具http://developer.egret.com/cn/github/egret-docs/Wing/update/update416/index.html
 
 demo：http://game.linyueshan.com/egret/cards/index.html
+
+![](https://img.shields.io/badge/download-1K-brightgreen.svg)
