@@ -17,4 +17,4 @@ demo：<a href="http://game.linyueshan.com/egret/cards/index.html">demo<a>
 ![](https://github.com/strife013/EgretCard/blob/master/CardEUI3/egretmain.png)
 
 any help?
-![](https://github.com/strife013/EgretCard/blob/master/CardEUI3/dibs.png)
+![](https://github.com/strife013/EgretCard/blob/master/CardEUI3/resource/assets/wxzs.png)
