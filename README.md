@@ -11,7 +11,7 @@ The first load is a little slow. Drag the card to the lower shadow area when sel
 
 development tool： http://developer.egret.com/cn/github/egret-docs/Wing/update/update416/index.html
 
-demo：<a href="http://game.linyueshan.com/egret/cards/index.html">demo<a>
+demo：<a href="https://www.linyueshan.com/egret/cards/">demo<a>
 
 ![](https://github.com/strife013/EgretCard/blob/master/CardEUI3/resource/assets/s3.png)
 ![](https://github.com/strife013/EgretCard/blob/master/CardEUI3/egretmain.png)
